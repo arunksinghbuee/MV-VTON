@@ -93,7 +93,7 @@ dependencies:
       - cloudpickle==3.0.0
       - contourpy==1.1.1
       - cycler==0.12.1
-      - diffusers==0.20.0
+      - diffusers==0.28.0
       - einops==0.3.0
       - fastrlock==0.8.2
       - filelock==3.13.1
@@ -193,4 +193,6 @@ dependencies:
       - yacs==0.1.8
       - yarl==1.9.3
       - zipp==3.17.0
+      - huggingface_hub==0.23.0
+      - accelerate==0.30.1
 prefix: /mnt/pfs-mc0p4k/cvg/team/didonglin/conda_envs/mv-vton
